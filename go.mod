@@ -1,4 +1,4 @@
-module github.com/etaom-pro/gnostic-grpc
+module github.com/etam-pro/gnostic-grpc
 
 go 1.20
 
